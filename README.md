@@ -62,10 +62,9 @@ Live2D 캐릭터 트래킹 프로그램, 생동감 있는 캐릭터와 함께하
 # 기술/구현 정보  
 트래킹 기술:  
 얼굴 인식: OpenCV / MediaPipe / ARKit  
-눈/입 동작 감지: Landmark 기반 실시간 분석  
-손/몸 동작: (지원 시) Pose Estimation 활용  
+눈 / 입 동작 감지: Landmark 기반 실시간 분석  
 Live2D 연동: Cubism SDK 사용, 모델 데이터(.model3.json) 파싱 및 실시간 애니메이션 반영  
-UI/환경: Electron / Qt / Unity 등, 직관적인 인터페이스 제공  
+UI/환경: Flutter를 이용한 직관적인 인터페이스 제공  
 실시간 최적화: GPU 가속, 최소 지연 시간으로 자연스러운 트래킹  
 
 ---
