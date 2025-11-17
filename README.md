@@ -1,3 +1,5 @@
+<img src="https://github.com/OptiWorks/FivyStudio-docs/blob/main/image/logo.png?raw=true" width="360" height="360">
+
 # FivyStudio-docs
 
 Live2D 캐릭터 트래킹 프로그램, 생동감 있는 캐릭터와 함께하는 인터랙티브
